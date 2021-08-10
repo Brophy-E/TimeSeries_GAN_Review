@@ -18,7 +18,7 @@ If you find this repo helpful in any way please consider citing our paper:
     }
     
     
-We have classified the time series GAN-variants into two research lines based on recent GAN developments. Below, we provide a summary and the demo code of these models.
+We have classified the time series GAN-variants into two research lines based on recent GAN developments. We also provide a list of papers related to GANs on time series in the `GAN_CV.csv` file. Below, we provide a links to the code of novel methods listed in the review paper models. 
 
 ## Discrete-variant time series GANs
 SEQGAN: https://github.com/LantaoYu/SeqGAN/
